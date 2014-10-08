@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/the-love-letter-mystery
+
 T = int(input())
 words = [list(input()) for i in range(T)]
 
