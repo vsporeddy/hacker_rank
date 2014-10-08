@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/service-lane
+
 user_input = input()
 T, N = [int(i) for i in user_input.split(' ')] 
 user_input = input()
