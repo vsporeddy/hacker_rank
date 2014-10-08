@@ -1,4 +1,5 @@
 hacker_rank
 ===========
 
-Problems I solved on hackerrank.com
+Python solutions for problems on HackerRank, URLs to the problems are comments on the first line of each file.
+
