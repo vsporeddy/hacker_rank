@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/pangrams
+
 s = set(list(input().lower()))
 letters = []
 for i in range(97, 122):
