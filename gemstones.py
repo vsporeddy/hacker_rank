@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/gem-stones
+
 N = int(input())
 elements = []
 for i in range(0, N):
