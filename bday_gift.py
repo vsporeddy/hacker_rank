@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/bday-gift
+
 N = int(input())
 balls = [int(input()) for i in range(N)]
 total = 0.0
